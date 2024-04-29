@@ -9,18 +9,17 @@
 
 
 img {
-    max-width: 420px;
-    max-height: 293px;
-    margin-left: 10px !important;
-    margin-right: 10px !important;
+    max-width: 420px !important;
+    max-height: 293px !important;
 }
 
 .element-item {
     max-width: 420px !important;
     max-height: 293px !important;
     margin-bottom: 10px !important;
+    margin-left: 10px !important;
+    margin-right: 10px !important;
 }
-
 
 .btn-isotope,
 .btn-isotope:hover {
