@@ -21,7 +21,7 @@ img {
     margin-bottom: 10px !important;
     margin-left: 10px !important;
     margin-right: 10px !important;
-    transition: transform ease 700ms;
+    transition: ease 700ms;
 }
 
 .btn-isotope,
