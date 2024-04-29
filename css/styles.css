@@ -1,0 +1,29 @@
+.button-group {
+    margin-bottom: 10px;
+}
+
+.btn-isotope-secondary {
+    color: #ffffff !important;
+    border-radius: 0px !important;
+}
+
+
+img {
+    max-width: 440px;
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+}
+
+.col-box-office {
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+}
+
+.btn-isotope,
+.btn-isotope:hover {
+    color: #ffffff !important;
+    border-radius: 0px !important;
+    background-color: #0a2140 !important;
+    border: none !important;
+    margin-top: 5px;
+}
