@@ -37,6 +37,12 @@ document.addEventListener('DOMContentLoaded', function () {
     });
 
 
+    function hitBtnSuccess() {
+        $(".btn-success").trigger("click");
+    }
+    setTimeout(hitBtnSuccess, 3000);
+
+
 }, false);
 
 //}); //document ready	

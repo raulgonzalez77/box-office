@@ -10,6 +10,7 @@
 
 img {
     max-width: 420px;
+    max-height: 293px;
     margin-left: 10px !important;
     margin-right: 10px !important;
 }
@@ -22,8 +23,4 @@ img {
     background-color: #0a2140 !important;
     border: none !important;
     margin-top: 5px;
-}
-
-.col-box-office {
-    display: inline-block;
 }
