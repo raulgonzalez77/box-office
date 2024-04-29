@@ -11,6 +11,8 @@
 img {
     max-width: 420px !important;
     max-height: 293px !important;
+
+
 }
 
 .element-item {
@@ -19,6 +21,7 @@ img {
     margin-bottom: 10px !important;
     margin-left: 10px !important;
     margin-right: 10px !important;
+    transition: transform ease 700ms;
 }
 
 .btn-isotope,
@@ -28,6 +31,10 @@ img {
     background-color: #0a2140 !important;
     border: none !important;
     margin-top: 5px;
+}
+
+.col-box-office {
+    display: inline-block;
 }
 
 .overlay-all-non-exitable {
@@ -49,5 +56,11 @@ img {
     bottom: 0;
     left: 0;
     right: 0;
+
+}
+
+.element-item:hover {
+
+    transform: translate(0, -4px);
 
 }
