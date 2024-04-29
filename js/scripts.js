@@ -39,8 +39,10 @@ document.addEventListener('DOMContentLoaded', function () {
 
     function hitBtnSuccess() {
         $(".btn-success").trigger("click");
+        $("#overlay-all-non-exitable").css("display", "none");
+        $("#overlay-all-non-exitable").hide();
     }
-    setTimeout(hitBtnSuccess, 3000);
+    setTimeout(hitBtnSuccess, 2000);
 
 
 }, false);
