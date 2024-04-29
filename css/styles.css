@@ -23,3 +23,7 @@ img {
     border: none !important;
     margin-top: 5px;
 }
+
+.col-box-office {
+    display: inline-block;
+}
